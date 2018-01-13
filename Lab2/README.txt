@@ -1,6 +1,4 @@
-----------------
-CONSOLE OUTPUT:
-----------------
+# CONSOLE OUTPUT:
 
 PrintedMatter (prMatter):
 yearOfPublishing = 2001
