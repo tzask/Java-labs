@@ -1,5 +1,3 @@
-package com.labs;
-
 import java.util.*;
 
 public class Main {
