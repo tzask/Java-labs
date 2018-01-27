@@ -1,5 +1,3 @@
-package com.company;
-
 class Product {
     private String name;
     private double price;
